@@ -1,0 +1,2 @@
+observations,moran_i,expected_i,variance,z_value,p_value,weights
+337,0.35573739731669396,-0.002976190476190476,0.001226933557099314,10.240880663471117,1.3004717081819736e-24,"Queen contiguity, row-standardised"

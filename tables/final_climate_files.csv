@@ -1,0 +1,6 @@
+proposed_indicator,thema,dataset_file
+Tree-canopy coverage,Basiskaarten,bkb_2024.tif
+Drought exposure,Droogte,LG_extreemdrogezomer_Huidig.tif
+Heat stress,Hitte,Hittestress door warme nachten Huidig.tif
+Flood exposure,Overstroming,maximale_waterdiepte_nederland_grote_kans_20251219
+Heavy-rain exposure,Wateroverlast,Waterdiepte bij intense neerslag - 1-100 jaar.tif

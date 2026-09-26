@@ -1,0 +1,3 @@
+solution,average_silhouette,variance_explained_percent
+Two clusters,0.34,25.882
+Four clusters,0.328,57.858

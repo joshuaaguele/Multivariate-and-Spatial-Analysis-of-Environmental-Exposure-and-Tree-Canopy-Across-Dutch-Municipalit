@@ -1,0 +1,19 @@
+indicator,attribuutnaam,eenheid,omschrijving_kort
+Boomkroonoppervlakte,BKBgraad_PercLand,Percentage,Percentage Boomkroonoppervlakte
+Extreem lage grondwaterstand,LG3MaxHuidig,Meters,Grondwaterstand extreem droog jaar (meter onder maaiveld)
+Gevoelstemperatuur - AHN4,PET29tm34p,Percentage,Percentage gevoelstemperatuur tussen 29 en 34 graden
+Gevoelstemperatuur - AHN4,PET35tm40p,Percentage,Percentage gevoelstemperatuur tussen 35 en 40 graden
+Gevoelstemperatuur - AHN4,PET41tm45p,Percentage,Percentage gevoelstemperatuur tussen 41 en 45 graden
+Gevoelstemperatuur - AHN4,PET46tm50p,Percentage,Percentage gevoelstemperatuur tussen 46 en 50 graden
+Gevoelstemperatuur - AHN4,PET51plusp,Percentage,Percentage gevoelstemperatuur 51 graden
+Gevoelstemperatuur - AHN4,PET_NDp,Percentage,Percentage gevoelstemperatuur NoData
+Maximale overstromingsdiepte,P_200pluscm,Percentage,Maximale overstromingsdiepte >200cm met een extreem kleine kans
+Maximale overstromingsdiepte,P_20tot50cm,Percentage,Maximale overstromingsdiepte 20 tot 50cm met een extreem kleine kans
+Maximale overstromingsdiepte,P_50tot200cm,Percentage,Maximale overstromingsdiepte 50 tot 200cm met een extreem kleine kans
+Maximale overstromingsdiepte,P_tot20cm,Percentage,Maximale overstromingsdiepte tot 20cm met een extreem kleine kans
+Waterdiepte bij hevige bui,perc10_15cm,Percentage,Percentage waterdiepte tussen 10 tot 15 cm
+Waterdiepte bij hevige bui,perc15_20cm,Percentage,Percentage waterdiepte tussen 15 tot 20 cm
+Waterdiepte bij hevige bui,perc20_30cm,Percentage,Percentage waterdiepte tussen 20 tot 30 cm
+Waterdiepte bij hevige bui,perc30cmME,Percentage,Percentage waterdiepte meer dan 30 cm
+Waterdiepte bij hevige bui,perc5_10cm,Percentage,Percentage waterdiepte tussen 5 tot 10 cm
+Waterdiepte bij hevige bui,percNODATA,Percentage,Percentage waterdiepte NoData

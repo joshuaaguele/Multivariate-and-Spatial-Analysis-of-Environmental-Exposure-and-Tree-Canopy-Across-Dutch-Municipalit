@@ -1,0 +1,3 @@
+test,statistic,degrees_of_freedom,p_value
+Shapiro-Wilk normality test,0.9899809579293033,NA,0.02099324492089127
+Breusch-Pagan heteroskedasticity test,4.416374969917711,4,0.35257872310017674

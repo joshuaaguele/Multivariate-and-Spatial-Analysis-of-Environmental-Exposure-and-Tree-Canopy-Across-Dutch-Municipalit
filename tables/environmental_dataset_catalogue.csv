@@ -1,0 +1,148 @@
+thema,titel_dataset_in_de_kaartviewer,datasetnaam_in_downloadfolder,varianten_van_dataset
+Basiskaarten,"Basiskaart natuurlijk systeem hoofdtypen
+Basiskaart natuurlijk systeem eenheden","Basiskaart Natuurlijk Systeem Nederland Hoofdklasse.gpkg
+Basiskaart Natuurlijk Systeem Nederland Subklasse.gpkg",hoofdklasse & subklasse
+Basiskaarten,"Boomkroonbedekking
+Landbedekking
+Openbaar- en niet-openbaar gebied","bkb_2024.tif
+landbedekking_2024.tif
+ONO_2024.tif
+VSK_2024.tif",huidig
+Basiskaarten,Kansenkaart natuurlijke klimaatbuffers,TotaalkaartKlimaatbuffers.gpkg,huidig
+Basiskaarten,"Sociaal economische status (SES-WOA) 
+Broze gezondheid (%)
+Sterk eenzaam (%) 
+Huurwoningen (%)",nl_sociaal_economische_status_buurt_v20260722.gpkg nl_broze_gezondheid_buurt_v20260722.gpkg nl_sterk_eenzaam_buurt_v20260722.gpkg nl_percentage_huurwoningen_buurt_v20260722.gpkg,huidig
+Basiskaarten,Werkregiogrenzen,WerkregioGrenzen_14012022.gpkg,huidig
+Basiskaarten,"Wijktypologie - Buurtniveau
+Wijktypologie - Postcode 6-gebieden","Wijktypen buurten.gpkg
+Wijktypen Postcode 6 gebieden.gpkg",buurten & postcode 6
+Droogte,"Bodemdaling 2020 - 2050
+Bodemdaling 2020 - 2100","Bodemdaling 2020 2050 Hoog.tif
+Bodemdaling 2020 2050 Laag.tif
+Bodemdaling 2020 2100 Hoog.tif
+Bodemdaling 2020 2100 Laag.tif","2050 Hoog, 2050 Laag, 2100 Hoog, 2100 Laag"
+Droogte,Bodemdaling door ophoging,Bodemdaling door ophoging 2020 2050.tif,2050
+Droogte,Droogtegevoeligheid Grondwaterafhankelijke Natuur,Droogtegevoeligheid grondwaterafhankelijke natuur.gpkg,huidig
+Droogte,Gemiddelde Laagste Grondwaterstand,"GLG_Huidig.tif
+GLG_2050Hoog.tif
+GLG_2050Laag.tif
+GLG_2085Hoog.tif
+GLG_2085Laag.tif","2050 hoog, 2050 laag, 2085 hoog, 2085 laag, huidig"
+Droogte,Laagste grondwaterstand - extreem droge zomer,"LG_extreemdrogezomer_2050Hoog.tif
+LG_extreemdrogezomer_2085Hoog.tif
+LG_extreemdrogezomer_Huidig.tif","2050 hoog, 2085 hoog, huidig"
+Droogte,Natuurbrandgevoeligheid,"Natuurbrandgevoeligheid 2050 Hoog.tif
+Natuurbrandgevoeligheid Huidig.tif","2050 hoog, huidig"
+Droogte,"Recente bodemdaling ondiep
+Recente bodemdaling totaal","Recente bodemdaling ondiep.gpkg
+Recente bodemdaling totaal.gpkg",NA
+Droogte,Risico droogtestress,"Risico droogtestress 2050 Hoog.tif
+Risico droogtestress Huidig.tif","2050 hoog, huidig"
+Droogte,Risico paalrot,"Risico Paalrot 2050 Hoog.gpkg
+Risico Paalrot 2050 Laag.gpkg
+Risico Paalrot Huidig","2050 hoog, 2050 laag, huidig"
+Droogte,Risico verschilzetting,"Risico Verschilzetting 2050 Hoog.gpkg
+Risico Verschilzetting 2050 Laag.gpkg","2050 hoog, 2050 laag"
+Droogte,"Signaalkaart bodemdaling mei 2015 - mei 2018
+Signaalkaart bodemdaling okt 2016 - okt 2018","Signaalkaart bodemdaling mei15-mei18.tif
+Signaalkaart bodemdaling okt16-okt18.tif","mei 2015 - mei 2018, oktober 2016-oktober 2018"
+Droogte,Tekort oppervlaktewater extreem droog jaar,"Tekort oppervlaktewater extreem droog jaar 2050 Hoog.gpkg
+Tekort oppervlaktewater extreem droog jaar Huidig.gpkg","2050 hoog, huidig"
+Droogte,Tekort oppervlaktewater gemiddeld jaar,"Tekort oppervlaktewater gemiddeld jaar 2050 Hoog.gpkg
+Tekort oppervlaktewater gemiddeld jaar Huidig.gpkg","2050 hoog, huidig"
+Hitte,Afstand tot koelte (zoom in),Afstand tot koelte.gpkg,huidig
+Hitte,"Gevoelstemperatuur Buurtniveau 2012
+Gevoelstemperatuur Buurtniveau 2022
+Gevoelstemperatuur 2012
+Gevoelstemperatuur 2022","GevoelstemperatuurBuurt_2012.gpkg
+GevoelstemperatuurBuurt_2022.gpkg
+Gevoelstemperatuur2012_Raster > PET_ahn2.vrt
+Gevoelstemperatuur2022_Raster > PET_ahn4.vrt","2012, 2022, 2012 buurt, 2022 buurt"
+Hitte,Hittestress door warme nachten,"Hittestress door warme nachten 2050 Hoog.tif
+Hittestress door warme nachten Huidig.tif","2050 hoog, huidig"
+Hitte,n.v.t.,"HittegolfJuli19.tif
+HittegolfJuli19_2grWarmer.tif","2019, 2019 in 2gr warmere wereld"
+Overstroming,"Overstromingsdiepte | grote kans
+Overstromingsdiepte | middelgrote kans
+Overstromingsdiepte | kleine kans
+Overstromingsdiepte | zeer kleine kans
+Overstromingsdiepte | extreem kleine kans","maximale_waterdiepte_nederland_grote_kans_20251219
+maximale_waterdiepte_nederland_middelgrote_kans_20251219
+maximale_waterdiepte_nederland_kleine_kans_20251219
+maximale_waterdiepte_nederland_zeer_kleine_kans_20251219
+maximale_waterdiepte_nederland_extreem_kleine_kans_20251219","grote kans, middelgrote kans, kleine kans, zeer kleine kans, extreem kleine kans"
+Overstroming,Percentage droge verdiepingen per buurt | Overstroming extreem kleine kans,droge_verdiepingen_extreem_kleine_kans_20251120,huidig
+Overstroming,"Plaatsgebonden overstromingskans > 0 cm
+Plaatsgebonden overstromingskans > 20 cm
+Plaatsgebonden overstromingskans > 50 cm
+Plaatsgebonden overstromingskans > 200 cm","plaatsgebonden_overstromingskans_huidig_0_cm_20251120
+plaatsgebonden_overstromingskans_huidig_20_cm_20251120
+plaatsgebonden_overstromingskans_huidig_50_cm_20251120
+plaatsgebonden_overstromingskans_huidig_200_cm_20251120
+plaatsgebonden_overstromingskans_norm_2050_0_cm_20251120
+
+plaatsgebonden_overstromingskans_norm_2050_20_cm_20251120
+plaatsgebonden_overstromingskans_norm_2050_50_cm_20251120
+plaatsgebonden_overstromingskans_norm_2050_200_cm_20251120
+plaatsgebonden_overstromingskans_norm_plus_klimaatverandering_2100_0_cm_20251120
+plaatsgebonden_overstromingskans_norm_plus_klimaatverandering_2100_20_cm_20251120
+plaatsgebonden_overstromingskans_norm_plus_klimaatverandering_2100_50_cm_20251120
+plaatsgebonden_overstromingskans_norm_plus_klimaatverandering_2100_200_cm_20251120","huidig: 0 cm, 20 cm, 50 cm, 200 cm
+Norm 2050: 0 cm, 20 cm, 50 cm, 200 cm
+Norm + klimaatverandering 2100: 0 cm, 20 cm, 50 cm, 200 cm"
+Overstroming,"Verandering waterstanden bij norm | 1m zeespiegelstijging
+Verandering waterstanden bij norm | 3m zeespiegelstijging
+Toename minimale kruinhoogte bij norm | 1m zeespiegelstijging
+Toename minimale kruinhoogte bij norm | 3m zeespiegelstijging","VeranderingWaterstandbijNorm1mZeespiegelstijging.gpkg
+VeranderingWaterstandbijNorm3mZeespiegelstijging.gpkg
+ToenameMinimaleKruinhoogtebijNorm1mZeespiegelstijging.gpkg
+ToenameMinimaleKruinhoogtebijNorm3mZeespiegelstijging.gpkg",1m & 3m zeespiegelstijging
+Wateroverlast,"Bereikbaarheid geen dreiging
+Bereikbaarheid grootschalige extreme neerslag","Bereikbaarheid geen dreiging.gpkg
+Bereikbaarheid grootschalige extreme neerslag.gpkg",n.v.t.
+Wateroverlast,Bovenregionale indeling,BRS_regios.gpkg,n.v.t.
+Wateroverlast,Gevoeligheid watererosie,Gevoeligheid watererosie.tif,Huidig
+Wateroverlast,"Grootschalige extreme regen | Overstromingsduur
+     <naam regio> | Overstromingsduur basisgebeurtenis","Achterhoek_BRS_basisgebeurtenis_overstromingsduur
+ARKNZK_BRS_basisgebeurtenis_overstromingsduur
+BrabantseDelta_BRS_basisgebeurtenis_overstromingsduur
+NBrabantOost_BRS_basisgebeurtenis_overstromingsduur
+OverijsselseVecht_BRS_basisgebeurtenis_overstromingsduur
+Rivierenland_BRS_basisgebeurtenis_overstromingsduur
+RMM_BRS_basisgebeurtenis_overstromingsduur
+Scheldestromen_BRS_basisgebeurtenis_overstromingsduur
+ValleiVeluwe_BRS_basisgebeurtenis_overstromingsduur
+Zuiderzeeland_BRS_basisgebeurtenis_overstromingsduur","Beschikbaar voor de volgende regio's van de bovenregionale stresstest:
+Achterhoek, ARK-NZK, Brabantse Delta, Noord-Brabant Oost, Overijsselse Vecht, Rivierenland, Rijn-Maas Monding, Scheldestromen, Vallei en Veluwe, Zuiderzeeland"
+Wateroverlast,"Grootschalige extreme regen | Waterdiepte
+     <naam regio> | Waterdiepte basisgebeurtenis","Achterhoek_BRS_basisgebeurtenis_waterdiepte
+Achterhoek_BRS_basisgebeurtenis_waterdiepte
+Achterhoek_BRS_basisgebeurtenis_waterdiepte
+ARKNZK_BRS_basisgebeurtenis_waterdiepte
+BrabantseDelta_BRS_basisgebeurtenis_waterdiepte
+Friesland_BRS_basisgebeurtenis_waterdiepte
+Gron_NOD_BRS_basisgebeurtenis_waterdiepte
+Limburg_BRS_basisgebeurtenis_waterdiepte
+NBrabantOost_BRS_basisgebeurtenis_waterdiepte
+OverijsselseVecht_BRS_basisgebeurtenis_waterdiepte
+Rivierenland_BRS_basisgebeurtenis_waterdiepte
+RMM_BRS_basisgebeurtenis_waterdiepte
+Scheldestromen_BRS_basisgebeurtenis_waterdiepte
+ValleiVeluwe_BRS_basisgebeurtenis_waterdiepte
+Zuiderzeeland_BRS_basisgebeurtenis_waterdiepte","Beschikbaar voor de volgende regio's van de bovenregionale stresstest:
+Achterhoek, ARK-NZK, Brabantse Delta, Friesland, Groningen Noord-Oost Drenthe, Limburg, Noord-Brabant Oost, Overijsselse Vecht, Rivierenland, Rijn-Maas Monding, Scheldestromen, Vallei en Veluwe, Zuiderzeeland"
+Wateroverlast,Kwel en infiltratie,Kwel en infiltratie Huidig.tif Kwel en infiltratie 2050 Hoog.tif,"Huidig, 2050 Hoog"
+Wateroverlast,Maatgevende grondwaterstand (GHG),Maatgevende_grondwaterstand_(GHG)_1911tot2010.tif,Huidig
+Wateroverlast,Maximale grondwaterstand (HG3),Maximale_grondwaterstand_(HG3)_1911tot2010.tif,Huidig
+Wateroverlast,Ontwateringsdiepte bij maatgevende grondwaterstand (GHG),Ontwateringsdiepte_Maatgevendegrondwaterstand.tif,Huidig
+Wateroverlast,Ontwateringsdiepte bij maximale grondwaterstand (HG3),Ontwateringsdiepte_Maximalegrondwaterstand.tif,Huidig
+Wateroverlast,Ontwikkeling kans grondwateroverlast,Ontwikkeling kans grondwateroverlast 2050 Hoog.gpkg,2050 hoog
+Wateroverlast,Risico op ondergrondverdichting,Risico op ondergrondverdichting.tiff,Huidig
+Wateroverlast,Risico zuurstofstress,"Risico zuurstofstress 2050 Hoog.tif
+Risico zuurstofstress Huidig.tif","Huidig, 2050 Hoog"
+Wateroverlast,Stedelijke infiltratie kansen,Potentie infiltratie stedelijk.tif,Huidig
+Wateroverlast,"Waterdiepte bij hevige bui | 70 mm / 2 uur
+Waterdiepte bij hevige bui | 140 mm / 2 uur","Waterdiepte bij intense neerslag - 1-100 jaar.tif
+Waterdiepte bij intense neerslag - 1-1000 jaar.tif","1-100 jaar (70mm, 2u), 1-100 jaar (140mm, 2u)"
+Wateroverlast,n.v.t.,stijging_maxgrondwaterstand_tov_maatgevendegrondwaterstand.tif,Huidig

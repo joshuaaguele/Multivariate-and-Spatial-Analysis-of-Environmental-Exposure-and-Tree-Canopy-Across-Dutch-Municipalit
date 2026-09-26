@@ -1,0 +1,6 @@
+component,eigenvalue,variance_percent,cumulative_percent
+PC1,2.009,40.18,40.18
+PC2,1.517,30.35,70.53
+PC3,0.819,16.38,86.91
+PC4,0.404,8.08,94.99
+PC5,0.25,5.01,100

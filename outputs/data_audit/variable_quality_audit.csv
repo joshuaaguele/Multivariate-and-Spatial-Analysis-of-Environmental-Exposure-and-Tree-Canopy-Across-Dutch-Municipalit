@@ -1,0 +1,8 @@
+variable,observations,available_values,missing_values,missing_percent,unique_values,mean,standard_deviation,minimum,median,maximum,zero_variance,possible_problem
+drought_depth_m,342,337,5,1.46,337,3.946,6.71,0.896,2.165,59.8,FALSE,No immediate problem
+neighbourhoods,342,342,0,0,103,42.614,42.029,2,32,517,FALSE,No immediate problem
+municipality_population,342,342,0,0,340,54128.67,78496.374,945,33847.5,933015,FALSE,No immediate problem
+canopy_percent,342,342,0,0,342,13.308,4.759,4.83,12.68,34.896,FALSE,No immediate problem
+heat_exposure_41plus_pct,342,342,0,0,342,65.623,6.114,45.151,66.053,83.572,FALSE,No immediate problem
+flood_exposure_over50cm_pct,342,342,0,0,320,40.059,35.91,0,35.11,98.894,FALSE,No immediate problem
+heavy_rain_exposure_20plus_pct,342,342,0,0,342,2.951,1.438,0.484,2.63,9.766,FALSE,No immediate problem

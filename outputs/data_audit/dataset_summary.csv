@@ -1,0 +1,2 @@
+dataset_file,number_of_rows,number_of_columns,duplicate_rows
+tables/municipality_environmental_indicators.csv,342,9,0

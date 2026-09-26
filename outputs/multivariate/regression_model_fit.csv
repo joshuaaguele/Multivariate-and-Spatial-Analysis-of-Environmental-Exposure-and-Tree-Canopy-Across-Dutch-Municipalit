@@ -1,0 +1,2 @@
+observations,r_squared,adjusted_r_squared,residual_standard_error,f_statistic,numerator_df,denominator_df,model_p_value,aic,bic
+337,0.4588526002891421,0.4523327520998547,4.457916139310716,70.3778043548726,4,332,4.147930498222258e-43,1970.7423878191444,1993.6628854012586

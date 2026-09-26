@@ -1,0 +1,5 @@
+predictor,vif
+canopy_percent,1.244
+drought_depth_m,1.61
+flood_exposure_over50cm_pct,1.268
+heavy_rain_exposure_20plus_pct,1.659

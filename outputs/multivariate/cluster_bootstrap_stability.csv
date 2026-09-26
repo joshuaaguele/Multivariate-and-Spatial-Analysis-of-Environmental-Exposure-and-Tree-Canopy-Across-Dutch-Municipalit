@@ -1,0 +1,5 @@
+cluster_number,cluster,cluster_name,bootstrap_cluster,mean_jaccard,dissolved_runs,recovered_runs,dissolved_percent,recovered_percent,stability
+1,Cluster 1,"High-canopy, low-heat profile",4,0.8161607800441658,1,357,0.2,71.4,Stable
+2,Cluster 2,Low flood/rain profile,2,0.9357895625633046,0,499,0,99.8,Highly stable
+3,Cluster 3,Flood-exposure profile,3,0.978279726890842,0,500,0,100,Highly stable
+4,Cluster 4,Drought-heavy-rain extreme profile,1,0.879362468439713,9,431,1.8,86.2,Highly stable

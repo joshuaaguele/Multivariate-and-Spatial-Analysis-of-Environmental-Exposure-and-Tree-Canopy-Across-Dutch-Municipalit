@@ -1,0 +1,20 @@
+measure_code,indicator,unit,municipalities_recorded,available_values,missing_values,missing_percent
+M000222,Gem. gestandaardiseerd inkomen,x 1 000 euro,337,337,5,1.5
+M000223,Gemiddeld inkomen per inkomensontvanger ,x 1 000 euro,339,339,3,0.9
+M000224,Gemiddeld inkomen per inwoner ,x 1 000 euro,339,339,3,0.9
+A018943_4,Personenauto's naar oppervlakte,per km²,340,340,2,0.6
+53715,45 tot 65 jaar,aantal,342,342,0,0
+80200,65 jaar of ouder,aantal,342,342,0,0
+A047040,Oppervlakte water,ha,342,342,0,0
+A047044,Oppervlakte land,ha,342,342,0,0
+D000184,20% huishoudens met hoogste inkomen,%,342,342,0,0
+D000185,20% personen met hoogste inkomen,%,342,342,0,0
+D000186,40% huishoudens met laagste inkomen,%,342,342,0,0
+D000187,40% personen met laagste inkomen,%,342,342,0,0
+D006842,Personen per soort uitkering; Bijstand,aantal,342,342,0,0
+M000100,Bevolkingsdichtheid,aantal inwoners per km²,342,342,0,0
+M000232,Aantal inkomensontvangers  ,aantal,342,342,0,0
+M008348,Personen tot 25% boven armoedegrens,%,342,342,0,0
+M008349,Personen in armoede,%,342,342,0,0
+ST0003,Omgevingsadressendichtheid,per km²,342,342,0,0
+T001455_2,Oppervlakte totaal,ha,342,342,0,0

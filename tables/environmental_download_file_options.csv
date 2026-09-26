@@ -1,0 +1,17 @@
+proposed_indicator,thema,dataset_file,varianten_van_dataset
+Tree-canopy coverage,Basiskaarten,bkb_2024.tif,huidig
+Tree-canopy coverage,Basiskaarten,landbedekking_2024.tif,huidig
+Tree-canopy coverage,Basiskaarten,ONO_2024.tif,huidig
+Tree-canopy coverage,Basiskaarten,VSK_2024.tif,huidig
+Drought exposure,Droogte,LG_extreemdrogezomer_2050Hoog.tif,"2050 hoog, 2085 hoog, huidig"
+Drought exposure,Droogte,LG_extreemdrogezomer_2085Hoog.tif,"2050 hoog, 2085 hoog, huidig"
+Drought exposure,Droogte,LG_extreemdrogezomer_Huidig.tif,"2050 hoog, 2085 hoog, huidig"
+Heat stress,Hitte,Hittestress door warme nachten 2050 Hoog.tif,"2050 hoog, huidig"
+Heat stress,Hitte,Hittestress door warme nachten Huidig.tif,"2050 hoog, huidig"
+Flood exposure,Overstroming,maximale_waterdiepte_nederland_grote_kans_20251219,"grote kans, middelgrote kans, kleine kans, zeer kleine kans, extreem kleine kans"
+Flood exposure,Overstroming,maximale_waterdiepte_nederland_middelgrote_kans_20251219,"grote kans, middelgrote kans, kleine kans, zeer kleine kans, extreem kleine kans"
+Flood exposure,Overstroming,maximale_waterdiepte_nederland_kleine_kans_20251219,"grote kans, middelgrote kans, kleine kans, zeer kleine kans, extreem kleine kans"
+Flood exposure,Overstroming,maximale_waterdiepte_nederland_zeer_kleine_kans_20251219,"grote kans, middelgrote kans, kleine kans, zeer kleine kans, extreem kleine kans"
+Flood exposure,Overstroming,maximale_waterdiepte_nederland_extreem_kleine_kans_20251219,"grote kans, middelgrote kans, kleine kans, zeer kleine kans, extreem kleine kans"
+Heavy-rain exposure,Wateroverlast,Waterdiepte bij intense neerslag - 1-100 jaar.tif,"1-100 jaar (70mm, 2u), 1-100 jaar (140mm, 2u)"
+Heavy-rain exposure,Wateroverlast,Waterdiepte bij intense neerslag - 1-1000 jaar.tif,"1-100 jaar (70mm, 2u), 1-100 jaar (140mm, 2u)"
